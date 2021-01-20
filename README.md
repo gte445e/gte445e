@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[LinkedIn: Justin Steele](https://www.linkedin.com/in/justinsteele/)
+
+[Rss: Code, Build, Debug, Repeat](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FltLj1KGOMv8VnYieJcnMPwZY)
