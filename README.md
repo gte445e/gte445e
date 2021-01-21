@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Justin 👋
+
+- 🔨 My profile here is a WIP
+- 📫 Want to talk? You can reach me on [LinkedIn](https://www.linkedin.com/in/justinsteele/)
+- ⚡ I have recently created an rss board  [Code, Build, Debug, Repeat](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FltLj1KGOMv8VnYieJcnMPwZY) of articles of interest.
 
 <!--
 **gte445e/gte445e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[LinkedIn: Justin Steele](https://www.linkedin.com/in/justinsteele/)
-
-[Rss: Code, Build, Debug, Repeat](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FltLj1KGOMv8VnYieJcnMPwZY)
