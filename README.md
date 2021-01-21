@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/justinsteele/) 
+
 ### Hi, I'm Justin 👋
 
 - 🔨 My profile here is a WIP
